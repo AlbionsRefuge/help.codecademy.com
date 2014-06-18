@@ -7,6 +7,4 @@ The network you use at work or school may have a firewall or a proxy in place fo
 
 If you're at work or school, ask the tech support team to see whether firewall settings are restricting your access to Codecademy. Let them know that we use port 80.
 
-It is possible that your own home network has been locked down to improve your network's security. If that is the case, and depending on if this was done by you or is part of your family's parental control settings, this will be something that you or your parents can correct. 
-
-If you continue having problems, run http://websocketstest.com/ and send us the results at <a href="mailto:contact@codecademy.com">contact@codecademy.com</a>.
+It is possible that your own home network has been locked down to improve your network's security. If that is the case, and depending on if this was done by you or is part of your family's parental control settings, this will be something that you or your parents can correct.
