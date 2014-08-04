@@ -19,7 +19,7 @@ If you are at work or school or using a shared wireless network, there may be a 
 - **Check your browser's  extensions**. Some extensions, like ad blockers and pop-up blockers, can affect your activities on Codecademy. Try disabling them one at a time. Once you find out which one is interfering, then you may be able to configure it to ignore Codecademy. 
 - **Clear your browser's cache** and reload the web page. Instructions for clearing your cache:  [Chrome](https://support.google.com/chrome/answer/95582) / [Firefox](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache)
 - **Check your zoom level**. If you have zoomed in or out on your browser, then you may see glitches in some exercises. To get back to 100&#37;, press `Ctrl+0` (PC) or `Cmd+0` (Mac).
-- **Tablets and mobile phones** are not fully supported yet, but you should be able to complete most lessons on a recent, full-featured mobile browser running on iOS or Android.
+- **Tablets and mobile phones** are not fully supported. We recommend using a desktop.
 
 #### Tried all that and still not working?
 To see if others are having the same problem as you are:
