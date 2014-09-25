@@ -1,5 +1,6 @@
 ---
 title: How do I share my progress with others?
+article_id: '1705764'
 ---
 
 ### You can share your progress in the following ways:
