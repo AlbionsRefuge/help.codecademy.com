@@ -1,5 +1,6 @@
 ---
 title: Can I link external libraries to my Codebits?
+article_id: '1727250'
 ---
 
 Yes! It's very easy to link external libraries to your Codebits in order to add extra functionality to your creation. To do so, simply follow these steps.
