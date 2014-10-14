@@ -9,7 +9,7 @@ For this example, we are going to look at using Google-hosted libraries in our C
 1. Find the library you want to use. Here is the list of [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
 2. Copy the snippet for the library that you want to use. You can find it under the library's name on the page listed above.
 3. Paste the snippet into your Codebit's code. We're using jQuery for this specific example.
-    ![Step Three](http://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/how-to-linking-external-libraries-codebits_2.png)
+    <p><img src="http://raw.github.com/RyzacInc/help.codecademy.com/master/published/_assets/_img/how-to-linking-external-libraries-codebits_2.png" width="640px"></p>
     Note: If your Codebit's `script.js` requires jQuery (or another library you may choose), said library **must** be before your `script.js` in the code as seen above.
 4. Use the library.
 
