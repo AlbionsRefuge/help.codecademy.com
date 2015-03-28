@@ -22,7 +22,10 @@ If you are at work or school or using a shared wireless network, there may be a 
 - **Tablets and mobile phones** are not fully supported. We recommend using a laptop or a desktop.
 
 #### Tried all that and still not working?
-To see if others are having the same problem as you are:
-  1. Check the **Q&A Forum** for your lesson. Look for the link in the bottom left of the lesson.
-  2. Check the [Buggy Exercises](http://www.codecademy.com/groups/buggy-exercises) group.
-  3. Check the [Site Bugs](http://www.codecademy.com/groups/help-and-bug-reporting) group.
+
+To see if others are having the same porblem as you are: 
+
+  1. Check the Q&A forum for the exercise. Look for the link in the bottom left of the exercise. 
+  2. Check the spreadsheet [here](https://docs.google.com/spreadsheet/ccc?key=0AmiUmzXzpa1ddGdwRjdHRDlBRkt1eVpBc281a3J3R2c&usp=sharing) to see if the bug is in there. 
+
+If you don't see the bug anywhere, please contact Codecademy via [this form](http://help.codecademy.com/customer/portal/emails/new) or report the bug in the appropriate Q&A forum. 
