@@ -27,5 +27,3 @@ To see if others are having the same porblem as you are:
 
   1. Check the Q&A forum for the exercise. Look for the link in the bottom left of the exercise. 
   2. Check the spreadsheet [here](https://docs.google.com/spreadsheet/ccc?key=0AmiUmzXzpa1ddGdwRjdHRDlBRkt1eVpBc281a3J3R2c&usp=sharing) to see if the bug is in there. 
-
-If you don't see the bug anywhere, please contact Codecademy via [this form](http://help.codecademy.com/customer/portal/emails/new) or report the bug in the appropriate Q&A forum. 
