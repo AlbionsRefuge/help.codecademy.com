@@ -9,8 +9,8 @@ article_id: '1394081'
 
 **To permanently delete your account with no option for recovery**: 
 
-1. Go to **Me** > **Edit account settings**
-2. Click **Settings**
-3. Scroll down to **Delete Account**, and press **I understand, delete my account**
+1. Click your **Profile Picture** > **My account**
+2. Click **Delete Account**
+3. Click the **I UNDERSTAND, DELETE MY ACCOUNT** button.
 
 
